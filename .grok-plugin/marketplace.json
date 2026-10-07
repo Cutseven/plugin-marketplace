@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "grok-community-skills",
+      "description": "Nine free community skills for everyday productivity: inbox triage, file finding, meeting scheduling, subscription tracking, meal planning, backups, task capture, translation/summarising, and batch file operations.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Cutseven/grok-community-skills.git",
+        "sha": "aa03306a3dc0fd124418d92eb537a5d0cdb5e7c9"
+      },
+      "homepage": "https://github.com/Cutseven/grok-community-skills",
+      "keywords": ["grok-community-skills", "grok community skills"]
     }
   ]
 }
