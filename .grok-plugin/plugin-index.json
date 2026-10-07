@@ -415,8 +415,8 @@
       }
     },
     "grok-community-skills": {
-      "sha": "aa03306a3dc0fd124418d92eb537a5d0cdb5e7c9",
-      "version": "1.0.0",
+      "sha": "6332f65476dfe606383875df9acc702a1ff9309f",
+      "version": "1.1.0",
       "components": {
         "skills": [
           {
@@ -426,6 +426,10 @@
           {
             "name": "batch-task-runner",
             "description": "Chain file operations (rename, convert, resize, compress, zip) described in plain language, with a dry-run preview befo…"
+          },
+          {
+            "name": "cloudflare-infra-worker",
+            "description": "Act as a conservative Cloudflare infrastructure, DNS, Workers/Pages, security and SRE engineer: inspect, diagnose, plan…"
           },
           {
             "name": "context-translator-summarizer",
